@@ -14,7 +14,7 @@
     "Eslint"
   ],
   "author": "Pedro Mathias Nakibar <pedro@getty.io>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.14.0",
     "babel-core": "^6.14.0",

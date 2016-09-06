@@ -1,0 +1,33 @@
+{
+  "name": "eslint-getty",
+  "version": "0.0.1",
+  "description": "Getty.io eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "keywords": [
+    "Getty.io",
+    "Eslint",
+    "Configuration",
+    "Eslint"
+  ],
+  "author": "Pedro Mathias Nakibar <pedro@getty.io>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "babel-istanbul": "^0.11.0",
+    "babel-loader": "^6.2.5",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-register": "^6.14.0",
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^6.2.0"
+  }
+}

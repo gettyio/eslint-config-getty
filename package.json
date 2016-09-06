@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-getty",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Getty.io eslint configuration",
   "main": "index.js",
   "homepage": "https://www.getty.io/",

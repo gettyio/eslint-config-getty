@@ -17,9 +17,9 @@
   "private": false,
   "keywords": [
     "Getty.io",
-    "Eslint",
-    "Configuration",
-    "Eslint"
+    "eslint",
+    "eslintconfig",
+    "getty"
   ],
   "author": "Pedro Mathias Nakibar <pedro@getty.io>",
   "license": "MIT",

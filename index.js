@@ -10,6 +10,11 @@ module.exports = {
     "commonjs": true,
     "mocha": true
   },
+  "plugins": [
+    "flowtype"
+    "jsx-a11y",
+    "flowtype"
+  ],
   "rules": {
     "arrow-body-style": 0,
     "padded-blocks": 0,
@@ -17,7 +22,6 @@ module.exports = {
     "react/jsx-boolean-value": 0,
     "max-len": [2, 200],
     "no-underscore-dangle": ["error", { "allow": ["_id", "__v"] }],
-    "flowtype",
   },
   parserOptions: {
     ecmaFeatures: {

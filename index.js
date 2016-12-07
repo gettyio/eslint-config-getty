@@ -11,7 +11,7 @@ module.exports = {
     "mocha": true
   },
   "plugins": [
-    "flowtype"
+    "flowtype",
     "jsx-a11y",
     "flowtype"
   ],

@@ -8,7 +8,8 @@ module.exports = {
     "node": true,
     "es6": true,
     "commonjs": true,
-    "mocha": true
+    "mocha": true,
+    "jest": true
   },
   "plugins": [
     "flowtype",

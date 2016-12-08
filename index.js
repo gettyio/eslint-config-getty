@@ -23,6 +23,7 @@ module.exports = {
     "react/jsx-boolean-value": 0,
     "max-len": [2, 200],
     "no-underscore-dangle": ["error", { "allow": ["_id", "__v"] }],
+    "generator-star-spacing": 0,
   },
   parserOptions: {
     ecmaFeatures: {
